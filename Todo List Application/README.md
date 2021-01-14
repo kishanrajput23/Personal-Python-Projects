@@ -10,7 +10,7 @@ This to do list application is designed to create your to do list with the requi
 
 **How To Run The Project?**
 
-To run this project, you must have installed **[Python](https://www.python.org/downloads/)** on your PC. After downloading the project, follow the steps below:
+To run this project, you must have installed **[Python](https://www.python.org/downloads/)** on your PC. After downloading it, follow the steps below:
 
 **Step1:** Clone this repository in your Local machine.
 
