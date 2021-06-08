@@ -2,14 +2,14 @@
 
 ## Click on the images to watch tutorial of the various projects👇
 
-## 📌Dice Simulator
-
-[![Dice Simulator Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Dice%20Simulator.jpg)](https://www.youtube.com/watch?v=4u1LHAvudhA&t=2s "Dice Simulator Tutorial") 
-
-
 ## 📌Random Pattern Generator
 
 [![Random Pattern Generator Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Random%20Pattern%20Generator.jpg)](https://www.youtube.com/watch?v=KFtceK_yFh0 "Random Pattern Generator Tutorial") 
+
+
+## 📌Dice Simulator
+
+[![Dice Simulator Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Dice%20Simulator.jpg)](https://www.youtube.com/watch?v=4u1LHAvudhA&t=2s "Dice Simulator Tutorial") 
 
 
 ## 📌Random Number Guessing Game
