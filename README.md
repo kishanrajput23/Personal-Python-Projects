@@ -45,3 +45,14 @@
 ## 📌ATM Machine
 
 [![ATM Machine Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/ATM%20Machine.jpg)](https://www.youtube.com/watch?v=oaSsSINjsL4 "ATM Machine Tutorial") 
+
+
+## 📌Downloading Image
+
+[![Downloading Image Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Downloading%20Image.jpg)](https://www.youtube.com/watch?v=cFYjdjXEW0Q&t=166s "Downloading Image Tutorial") 
+
+
+
+## 📌Grammar Correction
+
+[![Grammar Correction Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Grammer%20Correction.png)](https://youtu.be/KebKbVf62jM "Grammar Correction Tutorial") 
