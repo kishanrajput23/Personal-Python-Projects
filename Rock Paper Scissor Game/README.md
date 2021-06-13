@@ -1,7 +1,5 @@
 # Rock Paper Scissor Game🔥
 
-<img src="https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Rock%20Paper%20Scissor%20Game.jpg" alt="">
-
 - In the rock, paper and scissors game our goal is to create a command-line game where a user has the option to choose between rock, paper and scissors and if the user wins the score is added, and at the end when the user finishes the game, the score is shown to the user.
 
 ## 📌Rock, Paper and Scissors Game with Python
