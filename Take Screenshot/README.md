@@ -52,3 +52,4 @@ For the final step, you’ll need to use the template below in order to take the
 Now, when you run the code the screenshot will automatically save at your provided location with the name of you provided in the code.
 
 That’s it! simple, isn’t it?
+
