@@ -37,7 +37,7 @@
 [![Password Generator Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Password%20Generator.jpg)](https://www.youtube.com/watch?v=jMSLR2w9jtc "Password Generator Tutorial") 
 
 
-**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/tree/master/Random%20Pattern%20Generator)**
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/tree/master/Password%20Generator)**
 
 **----------------------------------------------------------------------------------------------------------------------------------**
 
@@ -87,7 +87,7 @@
 [![ATM Machine Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/ATM%20Machine.jpg)](https://www.youtube.com/watch?v=oaSsSINjsL4 "ATM Machine Tutorial") 
 
 
-**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/tree/master/Random%20Pattern%20Generator)**
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/tree/master/ATM%20Machine)**
 
 **----------------------------------------------------------------------------------------------------------------------------------**
 
