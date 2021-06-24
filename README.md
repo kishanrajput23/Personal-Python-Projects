@@ -121,12 +121,33 @@
 **----------------------------------------------------------------------------------------------------------------------------------**
 
 
+
+## 📌Basic Web Scraping 
+
+[![Basic Web Scraping Using Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Basic%20Web%20Scrapping.jpg)](https://www.youtube.com/watch?v=TeRY46qtWHY "Basic Web Scraping Using Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Basic%20Web%20Scraping/basic%20web%20scraping.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+
 ## 📌Acronym Generator
 
 [![Create Acronym in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Acronym.png)](https://www.youtube.com/watch?v=UjGfFFx1NBk "Create Acronym in Python Tutorial")
 
 
 **🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Acronym%20Generator/acronym.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌Creating Table
+
+[![Creating Table in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Create%20Table.jpg)](https://www.youtube.com/watch?v=mVV1xlUVUC4 "Creating Table in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Creating%20Table/Create_Table.py)**
 
 **----------------------------------------------------------------------------------------------------------------------------------**
 
