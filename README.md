@@ -129,3 +129,13 @@
 **🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Acronym%20Generator/acronym.py)**
 
 **----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌Email Slicer
+
+[![Create Email Slicer in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Email%20Slicer.png)](https://www.youtube.com/watch?v=fYiU0x4_7ao "Create Email Slicer in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Email%20Slicer/Email_Slicer.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
