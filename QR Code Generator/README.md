@@ -16,6 +16,8 @@ QR is short for Quick Response, and they are named so because they can be read q
       
 Now let’s see how to create a QR Code with Python programming language:
 
+**Code**
+
     import qrcode
     
     url='Coding Buddies'    # String which represent the QR code
@@ -23,5 +25,10 @@ Now let’s see how to create a QR Code with Python programming language:
     code_image =qrcode.make(url)    # Generate QR code
     
     code_image.save('Enter your Location')    # Create and save the png file at given location
+    
+
+**Generated QR-Code**
+    
+<img src="https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/QR%20Code%20Generator/youtube.svg" alt="">
     
 Now we finally built it.👍
