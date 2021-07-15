@@ -21,6 +21,7 @@ Traditionally, printing full-colour text to the terminal is accomplished by a se
     print(Style.BRIGHT+"Do Like Share And Subscribe")
 **Output**
 
+<img src="https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Colored%20Text/Colorama.png" alt="">
 
-It is also possible to change other text properties using ANSI escape characters, for example, if we wanted to make the text darker or lighter.
+It is also possible to change other text properties using ANSI escape characters, for example, if we wanted to make the text darker or lighter. You can try ut out.
 
