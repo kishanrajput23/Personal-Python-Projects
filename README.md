@@ -160,3 +160,43 @@
 **🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Email%20Slicer/Email_Slicer.py)**
 
 **----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌QR Code Generator
+
+[![QR Code Generator in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/QR%20Code%20Generator.jpg)](https://www.youtube.com/watch?v=ksHZ8rXY8Ok&list=PLeOLADrn24xFJ6j6t5wxEni45z9MZwmun&index=17 "QR Code Generator in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/QR%20Code%20Generator/QR-Code_Generator.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌Story Generator
+
+[![Story Generator in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Story%20Generator.jpg)](https://www.youtube.com/watch?v=1boHB7S47cw&list=PLeOLADrn24xFJ6j6t5wxEni45z9MZwmun&index=18 "Story Generator in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Story%20Generator/Story_Generator.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌Colored Text
+
+[![Print Colored Text in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Colored%20Text.jpg)](https://www.youtube.com/watch?v=Gu3OvjKS6nw&list=PLeOLADrn24xFJ6j6t5wxEni45z9MZwmun&index=19 "Print Colored Text in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Colored%20Text/Colored_Text.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+
+## 📌Audio Book
+
+[![Create An Audio Book in Python Tutorial](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Thumbnails/Audio%20Book.png)](https://www.youtube.com/watch?v=jUKQwONJItM&list=PLeOLADrn24xFJ6j6t5wxEni45z9MZwmun&index=20 "Create An Audio Book in Python Tutorial")
+
+
+**🔸For Code : [CLICK HERE](https://github.com/kishanrajput23/Personal-Python-Projects/blob/master/Audio%20Book/audio_book.py)**
+
+**----------------------------------------------------------------------------------------------------------------------------------**
