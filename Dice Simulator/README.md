@@ -1,13 +1,33 @@
 
-# Dice Simulator
+# Dice Simulator 🎲
 
-A simple dice simulator implemented in Python that demonstrates random number generation and basic user interaction.
+## What is this?
+A basic dice simulator demonstrating random number generation and interactive user prompts to roll one or more dice repeatedly. It’s a concise learning project to practice Python’s `random` module and simple I/O.
+
+## How it works
+- The script prompts the user for the number of dice and rolls, then uses `random.randint(1, 6)` to simulate each die roll.
+- Results are displayed after each roll and optionally summarized by counts or totals.
 
 **Main script:** `Dice_Simulator.py`
 
-How to run:
+### Example snippet
+```python
+import random
 
+def roll_die():
+	return random.randint(1, 6)
+
+print('Rolling 2 dice...')
+print(roll_die(), roll_die())
+```
+
+### Requirements
+- Python 3.x (no external packages required)
+
+### How to run
 1. Run: `python Dice_Simulator.py`
+2. Enter the number of dice and follow prompts to roll or quit.
 
-This project is useful for learning how to use the `random` module and simple loops.
+## Summary
+Small, interactive program ideal for beginners to learn randomness, loops, and basic user interaction. Suggested enhancements: add custom die sizes, roll statistics, or a GUI wrapper.
 

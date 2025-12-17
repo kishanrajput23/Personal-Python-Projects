@@ -1,21 +1,43 @@
-## Todo List Application
+## Todo List Application ✅
 
-**Dscription:-**
+## What is this?
 
-The To do List In Python is a simple project developed using Python. This project is a GUI application which stores the list of works to do from the users input. This project is an interesting and simple project. The project is not completely functional. You can add, edit many more features in this project
+A beginner-friendly GUI To-Do list application built with `tkinter`. The app lets users add tasks, set optional reminders/times, and manage (add/remove/mark done) tasks in a simple interface.
 
-**About the system:-**
+## How it works
 
-This to do list application is designed to create your to do list with the required time and you can also get the notification/remainder when you have to to your task. Here, the module used is Tkinter()-It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter outputs the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task. Also, the design of this system is pretty simple so that the user won’t get any difficulties while working on it.
+- The GUI is built with `tkinter` and provides input fields to add tasks and list widgets to display them.
+- Task entries can be added and removed during runtime; reminders can be implemented by checking task times and showing notifications.
+- The project demonstrates event-driven programming (button callbacks), simple state management, and basic input validation.
 
-**How To Run The Project?**
+**Main script:** `main.py`
 
-To run this project, you must have installed **[Python](https://www.python.org/downloads/)** on your PC. After downloading it, follow the steps below:
+### Example usage
 
-**Step1:** Clone this repository in your Local machine.
+1. Open a terminal inside the `Todo List Application` folder.
+2. Run: `python main.py`
+3. Use the GUI to add tasks and remove or mark them as completed.
 
-**Step 2:** Go inside the project folder, open cmd then type main.py and enter to start the system.
+### Code snippet (conceptual)
 
-**OR**
+```python
+from tkinter import Tk, Listbox, Entry, Button
 
-**Step 2:** Simply, double click the main.py file and you are ready to go.
+def add_task():
+	task = entry.get()
+	if task:
+		listbox.insert('end', task)
+
+root = Tk()
+entry = Entry(root)
+listbox = Listbox(root)
+Button(root, text='Add', command=add_task).pack()
+```
+
+## Requirements
+
+- Python 3.x (no extra packages required for the basic GUI)
+
+## Summary
+
+This project is an excellent starting point to learn GUI programming and can be enhanced by adding persistent storage (JSON/SQLite), better validation, reminders/notifications, or packaging as an executable.

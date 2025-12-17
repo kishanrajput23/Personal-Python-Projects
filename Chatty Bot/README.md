@@ -1,13 +1,17 @@
-# Chatty Bot
+# Chatty Bot 🤖
 
-A simple conversational bot implemented in Python to demonstrate basic input parsing and rule-based responses.
+## What is this?
+A simple rule-based chatbot demonstrating input parsing, pattern matching, and generating basic conversational responses in the console.
+
+## How it works
+- Prompts user for text input and matches keywords or patterns to select canned responses.
+- Useful for learning string manipulation and control flow.
 
 **Main script:** `chatty bot.py`
 
-How to run:
+### Example
+- Run the script and enter "hi" or "hello" to see a greeting response.
 
-1. Open a terminal in this folder.
-2. Run: `python "chatty bot.py"`
-
-This is a small learning project for understanding basic chatbot logic and string handling in Python.
+## Summary
+A great hands-on project for beginners to understand basic dialogue flow without using complex NLP libraries; extendable to use libraries like `nltk` or `transformers` for more advanced behavior.
 

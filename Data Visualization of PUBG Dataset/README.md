@@ -1,13 +1,19 @@
-# Data Visualization of PUBG Dataset
+# Data Visualization of PUBG Dataset 📊
 
-This Jupyter notebook analyzes a PUBG dataset and demonstrates common data cleaning and visualization techniques using `pandas`, `matplotlib`, and `seaborn`.
+## What is this?
+A Jupyter notebook that performs exploratory data analysis (EDA) and visualization on a PUBG dataset to highlight trends in player behavior and match outcomes.
 
 **Notebook:** `Data_Visualization_of_PUBG_Dataset.ipynb`
 
-How to run:
+### Typical analyses inside
+- Data cleaning (missing values, types)
+- Summary statistics (kills, damage, win rates)
+- Visualizations using `matplotlib`/`seaborn` (histograms, boxplots, scatter plots)
 
+### How to run
 1. Install dependencies: `pip install pandas matplotlib seaborn`
-2. Open the notebook in Jupyter: `jupyter notebook Data_Visualization_of_PUBG_Dataset.ipynb`
+2. Start Jupyter and open the notebook: `jupyter notebook Data_Visualization_of_PUBG_Dataset.ipynb`
 
-The notebook contains exploratory data analysis and plots that highlight trends in player performance and match statistics.
+## Summary
+Great for practicing data wrangling, visualization, and interpreting real dataset patterns.
 

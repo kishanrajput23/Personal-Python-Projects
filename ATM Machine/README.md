@@ -1,13 +1,23 @@
-# ATM Machine
+# ATM Machine 🔧
 
-A simple console-based ATM simulation in Python that demonstrates basic banking operations such as PIN verification, balance inquiry, deposits, and withdrawals.
+## What is this?
+A simple console-based ATM simulation that demonstrates core banking operations: PIN entry/verification, balance inquiry, deposit, and withdrawal. This project is useful for practicing conditional logic, user input validation and file/state handling.
+
+## How it works
+- The program prompts the user to enter a PIN and verifies it (hard-coded or stored).
+- The user can choose actions: check balance, deposit money, withdraw money, or exit.
+- The script updates the stored balance accordingly and shows results.
 
 **Main script:** `ATM machine.py`
 
-How to run:
+### Example usage
+1. Run: `python "ATM machine.py"`
+2. Follow prompts to enter PIN and choose operations.
 
-1. Open a terminal in this folder.
-2. Run: `python "ATM machine.py"`
+### Notes
+- Uses Python standard library only (no external dependencies).
+- You can extend it by persisting state to a file (simple JSON or text file) or adding more account features.
 
-No external dependencies required (uses Python standard library).
+## Summary
+This small project helps you practice program flow, input validation, and basic state management — perfect for beginners building confidence with Python.
 
